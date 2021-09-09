@@ -1,0 +1,30 @@
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\bin\Debug\Trabalho02.exe.config
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\bin\Debug\Trabalho02.exe
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\bin\Debug\Trabalho02.pdb
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\obj\Debug\Trabalho02.csprojAssemblyReference.cache
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\obj\Debug\Trabalho02.Form1.resources
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\obj\Debug\Trabalho02.Properties.Resources.resources
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\obj\Debug\Trabalho02.csproj.GenerateResource.cache
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\obj\Debug\Trabalho02.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\obj\Debug\Trabalho02.exe
+C:\Users\isabelle.oliveira\source\repos\Trabalho02\obj\Debug\Trabalho02.pdb
+C:\Users\eduar\Desktop\Trabalho02 - Copia\bin\Debug\Trabalho02.exe.config
+C:\Users\eduar\Desktop\Trabalho02 - Copia\bin\Debug\Trabalho02.exe
+C:\Users\eduar\Desktop\Trabalho02 - Copia\bin\Debug\Trabalho02.pdb
+C:\Users\eduar\Desktop\Trabalho02 - Copia\obj\Debug\Trabalho02.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Trabalho02 - Copia\obj\Debug\Trabalho02.Form1.resources
+C:\Users\eduar\Desktop\Trabalho02 - Copia\obj\Debug\Trabalho02.Properties.Resources.resources
+C:\Users\eduar\Desktop\Trabalho02 - Copia\obj\Debug\Trabalho02.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Trabalho02 - Copia\obj\Debug\Trabalho02.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Trabalho02 - Copia\obj\Debug\Trabalho02.exe
+C:\Users\eduar\Desktop\Trabalho02 - Copia\obj\Debug\Trabalho02.pdb
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\bin\Debug\Trabalho02.exe.config
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\bin\Debug\Trabalho02.exe
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\bin\Debug\Trabalho02.pdb
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\obj\Debug\Trabalho02.csprojAssemblyReference.cache
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\obj\Debug\Trabalho02.Form1.resources
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\obj\Debug\Trabalho02.Properties.Resources.resources
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\obj\Debug\Trabalho02.csproj.GenerateResource.cache
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\obj\Debug\Trabalho02.csproj.CoreCompileInputs.cache
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\obj\Debug\Trabalho02.exe
+C:\Users\isabelle.oliveira\OneDrive\Área de Trabalho\Trabalho02\obj\Debug\Trabalho02.pdb
